@@ -8,6 +8,12 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "typescript": "^4.7.3"
+    "typescript": "^4.7.3",
+    "@types/react": "^18.0.11",
+    "hermod-js": "^0.6.0"
+  },
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "hermod-js": "^0.6.0"
   }
 }
