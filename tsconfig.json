@@ -7,16 +7,16 @@
     "esModuleInterop": true,
     "target": "es6",
     "lib": [
-      "es2021"
+      "esnext"
     ],
     "noImplicitAny": true,
     "moduleResolution": "node",
-    "sourceMap": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "declaration": true,
     "outDir": "dist",
-    "baseUrl": "src",
-    "paths": {
-      "*": ["node_modules/*"]
-    }
+    "skipLibCheck": true
   },
-  "include": ["src"]
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
 }
