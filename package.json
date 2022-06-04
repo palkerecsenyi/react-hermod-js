@@ -1,6 +1,6 @@
 {
   "name": "react-hermod-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React utilities for hermod-js",
   "main": "dist/index.js",
   "files": [
@@ -13,12 +13,12 @@
   "private": false,
   "devDependencies": {
     "@types/react": "^18.0.11",
-    "typescript": "^4.7.3",
-    "hermod-js": "^0.6.0"
+    "hermod-js": "^0.6.0",
+    "typescript": "^4.7.3"
   },
   "peerDependencies": {
-    "react": "^18.1.0",
-    "hermod-js": "^0.6.0"
+    "hermod-js": "^0.6.0",
+    "react": "^18.1.0"
   },
   "scripts": {
     "build": "tsc",
