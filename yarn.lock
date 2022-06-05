@@ -54,10 +54,10 @@ detect-node@^2.1.0:
   resolved "https://registry.yarnpkg.com/detect-node/-/detect-node-2.1.0.tgz#c9c70775a49c3d03bc2c06d9a73be550f978f8b1"
   integrity sha512-T0NIuQpnTvFDATNuHN5roPwSBG83rFsuO+MXXH9/3N1eFbn4wcPjttvjMLEPWJ0RGUYgQE7cGgS3tNxbqCGM7g==
 
-hermod-js@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/hermod-js/-/hermod-js-0.6.0.tgz#d625f37e04c8b8e6b1fe8489968f2d923ba29a8e"
-  integrity sha512-Tr2xiAagJAaQhkacXKumrQNPVlmlqONBJVaN6SKD4J7xwO0Lo3MdU/bGjG7DLw3orpick7dT5m+JkqVCo9BPag==
+hermod-js@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/hermod-js/-/hermod-js-0.7.0.tgz#5cc185977d91ee25568e444bb5724b6e1cb3ee31"
+  integrity sha512-P/cE7jjU3QFyqXkjn4ln11Yg7I4Z1GvFBKUjByYnLJ/ujDyUS+inEZ0ndZBjiJHscEEO6qy5SLxDqg8q0L6gdA==
   dependencies:
     buffer "^6.0.3"
     camelcase "^6.3.0"
@@ -96,6 +96,11 @@ typescript@^4.6.4, typescript@^4.7.3:
   version "4.7.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.3.tgz#8364b502d5257b540f9de4c40be84c98e23a129d"
   integrity sha512-WOkT3XYvrpXx4vMMqlD+8R8R37fZkjyLGlxavMc4iB8lrl8L0DeTcHbYgw/v0N/z9wAFsgBhcsF0ruoySS22mA==
+
+use-async-effect@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/use-async-effect/-/use-async-effect-2.2.5.tgz#f58edb50376723ae0ea7674e7428c3f8dde894df"
+  integrity sha512-0TBhYJ0K6aN7jG8niDDO570ZXoCaIjMCryG0FBNvC9RkHqhb4m8LQlTlkhw40sXtZPwNN1QoYkSlCXB4enaFsQ==
 
 ws@^8.6.0:
   version "8.7.0"
